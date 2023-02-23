@@ -18,8 +18,12 @@
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
+    "dayjs": "^1.11.7",
+    "dotenv": "^16.0.3",
     "gatsby": "^5.6.1",
     "gatsby-plugin-emotion": "^8.7.0",
+    "gatsby-source-microcms": "^3.0.0",
+    "path": "^0.12.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
